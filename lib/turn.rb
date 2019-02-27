@@ -14,7 +14,3 @@ end
 def position_taken?()
   
 end 
-
-def move(board, index, )
-  
-end 
